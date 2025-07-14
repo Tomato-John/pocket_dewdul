@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706464035866",
+    "project_id": "dewdul-fce6a",
+    "storage_bucket": "dewdul-fce6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706464035866:android:a2f9a497fe54f7887e4da3",
+        "android_client_info": {
+          "package_name": "com.dewdul.dewdulpocket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChejWex37dOr7ERetYFBsIk5n1GIJ0w7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
